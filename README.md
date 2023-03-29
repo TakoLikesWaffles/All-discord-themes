@@ -6,4 +6,4 @@ otherwise if you use BETTERDISCORD download as zip and put the theme you want in
 
 if you want to request a theme dm me! ( discord Tako☆#6939 )
 
-thanks for downloading and sharing!⭐
+thanks for downloading !⭐
