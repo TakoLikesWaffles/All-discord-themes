@@ -21,7 +21,7 @@
 :root {
   --rgb-highlight: 74, 239, 152; /* The main highlight color */
   --rgb-background:99, 69, 75; /* The main background color */
-  --rgb-text: 74, 239, 152; /* The color (almost) all text should use */
+  --rgb-text: 248, 248, 255; /* The color (almost) all text should use */
   --rgb-close-button: 212, 18, 39; /* The main "close this" or "deny" color */
   --rgb-online-color: 57, 255, 20; /* The color used in the "online" user status symbol */
   --rgb-afk-color: 255, 255, 51; /* The color used in the "idle" user status symbol */
